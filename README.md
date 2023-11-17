@@ -5,6 +5,16 @@ opEn-Source Package for Research in Electronic Structure, Simulation, and
 Optimization)
 
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+![GitHub all releases](https://img.shields.io/github/downloads/QEF/q-e/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-7.0/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.8/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.7.0/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.6/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.5/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.4.1/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.4/total)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/QEF/q-e/qe-6.3/total)
+
 
 ## USAGE
 Quick installation instructions for CPU-based machines. For GPU execution, see
